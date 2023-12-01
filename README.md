@@ -16,5 +16,4 @@ These are some graphs that you can obtain through the scripts or small variation
 ![img](https://github.com/robertoiuliano98/MATLAB_social_network_analysis/blob/main/Previews/pw_2.PNG)
 ![img](https://github.com/robertoiuliano98/MATLAB_social_network_analysis/blob/main/Previews/pw_3.PNG)
 ![img](https://github.com/robertoiuliano98/MATLAB_social_network_analysis/blob/main/Previews/pw_4.PNG)
-![img](https://github.com/robertoiuliano98/MATLAB_social_network_analysis/blob/main/Previews/pw_5.PNG)
 ![img](https://github.com/robertoiuliano98/MATLAB_social_network_analysis/blob/main/Previews/pw_6.PNG)
