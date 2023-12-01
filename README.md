@@ -1,6 +1,7 @@
 # MATLAB_social_network_analysis
 Basic Matlab scripts for social network analysis.
 
+## Metrics
 A list of calculated metrics:
 * Betweenness centrality.
 * Hub and authority scores.
@@ -9,7 +10,7 @@ A list of calculated metrics:
 * Closeness.
 * HCU-rank score for importance ranking.
 
-
+## Previews
 ![img](https://github.com/robertoiuliano98/MATLAB_social_network_analysis/blob/main/Previews/pr_1.PNG) 
 ![img](https://github.com/robertoiuliano98/MATLAB_social_network_analysis/blob/main/Previews/pw_2.PNG)
 ![img](https://github.com/robertoiuliano98/MATLAB_social_network_analysis/blob/main/Previews/pw_3.PNG)
